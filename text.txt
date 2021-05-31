@@ -1,2 +1,120 @@
 이 파일은 테스트임~
 2021.05.30
+
+http://localhost:34106/?code=dfc5eae9c04f728ac28e&state=authenticated
+
+2021-05-30T22:16:43: Checking remote repositories...
+2021-05-30T22:16:43: Could not obtain git dir, C:\Users\visio\Desktop\programming\iTshirt-cow is not a git repo.
+2021-05-30T22:16:43: Could not obtain git dir, C:\Users\visio\Desktop\programming\iTshirt-cow is not a git repo.
+2021-05-30T22:16:45: Trying without host
+2021-05-30T22:16:48: Trying without host
+2021-05-30T22:24:58: Trying without host
+2021-05-30T22:24:58: VaultClient::WriteCredential
+2021-05-30T22:24:58: VaultClient::WriteCredential
+2021-05-30T22:24:58: VaultClient::WriteCredential
+2021-05-30T22:24:58: VaultClient::ReadCredentials
+2021-05-30T22:24:58: VaultClient::ReadCredentials
+2021-05-30T22:25:07: Trying without host
+2021-05-30T22:25:07: VaultClient::WriteCredential
+2021-05-30T22:25:07: VaultClient::WriteCredential
+2021-05-30T22:25:07: VaultClient::WriteCredential
+2021-05-30T22:25:07: VaultClient::ReadCredentials
+2021-05-30T22:25:08: VaultClient::ReadCredentials
+2021-05-30T22:26:51: Checking remote repositories...
+2021-05-30T22:26:51: Could not obtain git dir, C:\Users\visio\Desktop\programming\iTshirt-cow is not a git repo.
+2021-05-30T22:26:51: Could not obtain git dir, C:\Users\visio\Desktop\programming\iTshirt-cow is not a git repo.
+2021-05-30T22:26:53: Trying without host
+2021-05-30T22:26:56: Trying without host
+2021-05-30T22:27:25: VaultClient::ReadCredentials
+2021-05-30T22:29:37: Trying without host
+2021-05-30T22:29:37: VaultClient::WriteCredential
+2021-05-30T22:29:37: VaultClient::WriteCredential
+2021-05-30T22:29:37: VaultClient::WriteCredential
+2021-05-30T22:29:37: VaultClient::ReadCredentials
+2021-05-30T22:29:38: VaultClient::ReadCredentials
+
+https://community.atlassian.com/t5/forums/searchpage/tab/message
+
+http://localhost:34106/?code=df60c7d756d5d59142ce&state=authenticated
+
+https://community.atlassian.com/t5/user/myprofilepage/user-id/4415532
+
+https://community.atlassian.com/t5/Sourcetree/ct-p/sourcetree?tempId=eyJvaWRjX2NvbnNlbnRfbGFuZ3VhZ2VfdmVyc2lvbiI6IjIuMCIsIm9pZGNfY29uc2VudF9ncmFudGVkX2F0IjoxNjIyMzc5Njc2NjcwfQ==
+
+http://localhost:34106/?code=2150f4b96b67e9ff4c96&state=authenticated
+
+http://localhost:34106/?code=3cbcfdd646d241ebc3aa&state=authenticated
+
+https://community.atlassian.com/t5/Sourcetree/ct-p/sourcetree
+
+http://localhost:34106/?code=01eb55292c339e2b31ba&state=authenticated
+
+https://github.com/visionnote/iTshirt
+
+https://github.com/
+
+https://doitnow-man.tistory.com/27
+
+https://github.com/visionnote/iTshirt
+
+https://github.com/visionnote/iTshirt/commit/84b057c2c59d46c8b55a6094c2a7cd1b25b93b4f
+
+https://github.com/visionnote/iTshirt
+
+https://github.com/visionnote/iTshirt/tree/feature/cart
+
+https://i9.ytimg.com/vi/or90Uj9vjmE/maxresdefault.jpg?time=1622347800000&sqp=CJigzIUG&rs=AOn4CLC6rpeXSQUg913cCc7pJ7E2AQKiSw
+
+https://www.youtube.com/watch?v=or90Uj9vjmE
+
+https://studio.youtube.com/video/or90Uj9vjmE/edit
+
+https://github.com/visionnote/iTshirt/tree/master
+
+https://github.com/visionnote/iTshirt/commit/8fb78c999a81659602e6de9433302b265c07b5b8
+
+https://community.atlassian.com/t5/Sourcetree-questions/quot-Failed-to-check-login-for-user-quot-when-trying-to-loggin/qaq-p/1533840
+
+https://github.com/settings/admin
+
+https://github.com/myquick/iTshirt
+
+https://github.com/settings/tokens
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXcvhMmkGKKDGVmJWJLgXjklg
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXcvhMmkGKKDGVmJWJLgXjklg
+
+https://github.com/settings/emails
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXcvhMmkGKKDGVmJWJLgXjklg
+
+https://myaccount.google.com/security-checkup?continue=https://mail.google.com/mail/&flowType=1&hl=ko&rapt=AEjHL4PQbzrlBUlQ9uBXNZfIYJ79FXvlmbiYB1TUHjdVt-U0wMtU2wj5ZqtxkkAowE4Xwi4jAmvoeqzNvGnnBi7FM_BDXjBAUA&hl=ko&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26service%3Dmail%26hl%3Dko%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26osid%3D1%26ss%3D1%26ltmpl%3Ddefault%26rm%3Dfalse&service=mail&rapt=AEjHL4PQbzrlBUlQ9uBXNZfIYJ79FXvlmbiYB1TUHjdVt-U0wMtU2wj5ZqtxkkAowE4Xwi4jAmvoeqzNvGnnBi7FM_BDXjBAUA&pli=1
+
+https://github.com/settings/emails
+
+https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fpasswords.google.com%2Fcheckup%2Fresults%3Fep%3D2%26rvt%3D-f8JQFI5B3xdhpVlRzqV_ExwYzg%3A1622376388224%26continue%3Dhttps%3A%2F%2Fmyaccount.google.com%2Fsecurity-checkup%2F6%3Frfn%253D31%2526rfnc%253D1%2526et%253D0%2526anexp%253Dnret-fa%2526pli%253D1%2526continue%253Dhttps%25253A%25252F%25252Fmyaccount.google.com%25252Fsecurity%25253Fauthuser%25253D0%26pli%3D1%26rapt%3DAEjHL4PK4WAC23SM8HnNxtRHlf-hvmFsJvS8Onm_oRxSh5UTeT0_dsr7UVuclQu-dViQ8Nlh-mAhdBBJspJJzp_n1cCTohrHWQ&hl=ko&sarp=1&rart=ANgoxce2wgtfKfOjtZ34NdsOSeKh7cNrdEq6f9JtUy0n2i8vQUXbPT9BQv4Ctvt3HPlpVV4O5cp7pjrKvSauVFqJk4Tl1oA_ug&TL=AM3QAYYTH3xbSKGfkUg_lRwTkij5FszziAyHvR3GCBDpkZ0jExbOFcA2bz4PehZb&flowName=GlifWebSignIn&cid=1&flowEntry=ServiceLogin
+
+https://github.com/settings/emails
+
+https://www.youtube.com/watch?v=bztR_mkarAE
+
+https://dev.mysql.com/downloads/file/?id=503092
+
+https://help.opera.com/en/latest/shortcuts/#mouseGestures
+
+https://help.opera.com/en/latest/shortcuts/#mouseGestures
+
+https://www.youtube.com/watch?v=Q5noYbbc9uc
+
+https://dev.mysql.com/downloads/file/?id=503092
+
+https://dobby-the-house-elf.tistory.com/352
+
+https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=source+tree+%EC%9D%B8%EC%A6%9D+%EC%8B%A4%ED%8C%A8
+
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+https://community.atlassian.com/t5/Sourcetree-questions/quot-Failed-to-check-login-for-user-quot-when-trying-to-loggin/qaq-p/1533840
+
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
